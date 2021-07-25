@@ -1,0 +1,27 @@
+.singleProduct {
+    margin-bottom: 10px;
+}
+.productImg img {
+    width: 100%;
+}
+.productInfo {
+    padding: 25px;
+}
+.productInfo h4 {
+    font-size: 15px;
+    display: flex;
+    margin-bottom: 18px;
+}
+.productInfo h4:first-child {
+    display: flex;
+    font-size: 18px;
+    margin-bottom: 22px;
+}
+.productInfo button {
+    display: flex;
+    background: #F87217;
+    padding: 9px 60px;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+}

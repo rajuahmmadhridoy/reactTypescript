@@ -1,5 +1,5 @@
 
-export const HeaderData = [
+export const HeaderData= [
     {
         title:'Home',
         path:'/',
